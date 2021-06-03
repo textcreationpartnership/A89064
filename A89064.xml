@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius Anti-Mercurius, communicating all humours, conditions, forgeries and lyes of Mydas-eard newsmongers.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89064</idno><idno type="EEBO-CITATION">99865123</idno>
+  <idno type="VID">161652</idno>
+  <idno type="EEBO-PROQUEST">2240919995</idno>
+  
+            <idno type="STC">Wing M1752</idno>
+            <idno type="STC">Thomason E438_11</idno>
+            <idno type="STC">ESTC R205890</idno>
+            <idno type="PROQUEST">99865123</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865123e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89064)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161652)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E438[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius Anti-Mercurius, communicating all humours, conditions, forgeries and lyes of Mydas-eard newsmongers.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "April 4th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English newspapers --  England --  London --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Newspapers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:161652:1"/>
+            <head>
+               <hi>MERCƲRIƲS</hi> ANTI-MERCVRIVS, Communicating all Humours, Conditi<g ref="char:EOLhyphen"/>ons, Forgeries and Lyes of <hi>Mydas-eard</hi> NEWSMONGERS.</head>
+            <epigraph>
+               <q>
+                  <lg>
+                     <head>—Facit indignatio versum.</head>
+                     <l>For all those persons, that to tell,</l>
+                     <l>And write much Newes do love,</l>
+                     <l>May <hi>Charon</hi> ferry them to hell,</l>
+                     <l>And may they ne're remove.</l>
+                  </lg>
+                  <lg>
+                     <l>May all the Colds that on the Hill</l>
+                     <l>Of <hi>Caucasus</hi> do meet,</l>
+                     <l>May <hi>Scythian</hi> frosts palfie and chill</l>
+                     <l>Eternally their feet.</l>
+                  </lg>
+                  <lg>
+                     <l>May all the heats the torrid Zone</l>
+                     <l>And <hi>Lybia</hi> do see.</l>
+                     <l>May <hi>Aetna's</hi> fiercer flames fry, parch</l>
+                     <l>Their heads eternally.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <p>I Wonder these world is so bewitched to the <hi>Hydra<g ref="char:EOLhyphen"/>headed</hi> monsters, this adle-headed multitude, this fil<g ref="char:EOLhyphen"/>thy Aviary, this moth-eating crew of New-mongers, as to let them have a being in the world amongst us.</p>
+            <p>Every Jack-sprat that hath but a pen in his ink-horn is ready to gather up the Excrements of the Kingdom,
+<pb facs="tcp:161652:2"/> purgd forth by the glister of distraction, by the suppo<g ref="char:EOLhyphen"/>sitory of dissention; and to put them into a curranto, mixt with innumerable lyes of their own making, in the fashion of Newes, to gull the credulous world.</p>
+            <p>Theres not a week passeth without a litter of them, every day one or two are whelped of these asse-eard ink-squibletters, these ink-dishonouring pettifoggers, widwived out by the help of a fee.</p>
+            <p>What kind of creatures (I think) are these paper<g ref="char:EOLhyphen"/>blurring, weekly-teeming pamphleteers, that presse the Presse (almost) to death with their insupportable falsities? that my Reader may know, I will here insert the strange Pedegree of this croaking fry, thi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> indeno<g ref="char:EOLhyphen"/>minable Quaemalry of nudiustertian Mercury-mon<g ref="char:EOLhyphen"/>gers.</p>
+            <lg>
+               <l>Blew frisking <hi>Proteus</hi> (in the change o'th' Moon)</l>
+               <l>Got a Camelion on a wilde Baboon.</l>
+               <l>This antick wilde Baboon (committing rape)</l>
+               <l>Begot a Jesuite upon an Ape.</l>
+               <l>This plodding Jesuite (it came to passe)</l>
+               <l>Got a News-monger on silly Asse:</l>
+               <l>And so they got their ears. Now who is he</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> show so large, so fair a pedegree.</l>
+            </lg>
+            <p>A pedegree sufficient to stun a Herauld to account; pretty Beagles. But why do ye make us such monsters.</p>
+            <lg>
+               <l>Zoile, miraris si te apellavero monstrum?</l>
+               <l>Si quaeris causam, Zoile, causa patet.</l>
+               <l>Nullum animal novi quod lingua mordeat unquam,</l>
+               <l>Hoc tamen est in te, quod tibi nomen erit?</l>
+            </lg>
+            <pb facs="tcp:161652:2"/>
+            <p> Heres enough for a preamble, now to the matter.</p>
+            <p>The whole Bevy of New-lye-writers may be divided into two Sections: First, <hi>Cavaliers,</hi> and they may be sub-divided into</p>
+            <list>
+               <item>Mercurius
+<list>
+                     <item>1. <hi>Pragmaticus,</hi>
+                     </item>
+                     <item>2. <hi>Elencticus.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>Secondly, <hi>Parliamenteers,</hi> and they may be sub-divi<g ref="char:EOLhyphen"/>ded into</p>
+            <list>
+               <item>1. <hi>The perfect Diurnall-writer,</hi>
+               </item>
+               <item>2. <hi>The moderate Intelligencer.</hi>
+               </item>
+            </list>
+            <div n="1" type="part">
+               <head>But first for the Cavaliers.</head>
+               <p>First, <hi>Mercurius Pragmaticus</hi> is a fellow witty enough, but he hath more wit then honesty; he is the wittiest knave of the whole crew: (give the Devil his due,) he is the Court-jester, the Cavaliers fool, the chief squib-crack, arch pamphlet-puppy; if his Bre<g ref="char:EOLhyphen"/>thren (in iniquity) get him, the fools hug him, as the Papists doe a Dispensation, to eat flesh Fridayes; wherewith they are furnished with jests and jeers for a long time after.</p>
+               <p>This same <hi>Pragmaticus</hi> (alias <hi>J. Cleveland)</hi> was for<g ref="char:EOLhyphen"/>merly an University-chitron, but now he is chief press<g ref="char:EOLhyphen"/>whelp; I took him at first for a Chilver-cavalier, be<g ref="char:EOLhyphen"/>cause he vented such loud feminine scouldings: he had right a female Dialect, as if he would have unquaifed the Parliament: His motto i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>Nemo me impune lacessit,</hi> None provokes me without punishment. Great gun<g ref="char:EOLhyphen"/>powder words, but who fears it? <hi>Nemo, hercule, nemo. Aut duo, aut nemo.</hi> He spews poyson in every ones
+<pb facs="tcp:161652:3"/> face he meets, and snaps at all, as if (like a Cannibal) he meant to bite off their noses; but sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewd Cowes have short horns: His chief subject of jeering is Reli<g ref="char:EOLhyphen"/>gion; he thinks he doth great matters to cull some Divinity-dragooneers, or the like: But, sirrah <hi>Prag<g ref="char:EOLhyphen"/>maticus,</hi> whats become of your religions Ballad-sing<g ref="char:EOLhyphen"/>ers, your devout Bel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-blowers, your divine Fidlers, your godly Pipers, together with your heavenly Bawdy<g ref="char:EOLhyphen"/>court? you tell Master <hi>P.</hi> of edifying the Sisters in an upper room; and is it not for anger, that you must no more have a woman out of the Charter-house into the dark side of the cloister to make auricular Confession, whilest you presse hard to know all, forgiving her fee upon condition—: you know my meaning. Whats become of your wooden Doctors, your leaden headed Deans, your thundring Canons, your lazy Prebends, your simmonizing Chancellours, your sheep▪biting Bitesheeps, (Bishops I would say) your treasonplotting Arch-bitesheeps, with the rest of that divellish Hie<g ref="char:EOLhyphen"/>rarchy?</p>
+               <p>
+                  <hi>Pragmaticus</hi> at first seemed witty enough to edifie a jest, but he hath almost worn out his roguish expressi<g ref="char:EOLhyphen"/>ons; 'tis thought his note-book is almost at an end, and then the poor puny may give over in plain ground: But for his better supportment, he takes the councell of a generall caterwaul of Cavaliers once a week, to his great consolation; else 'tis thought the <hi>humidum radi<g ref="char:EOLhyphen"/>cale</hi> of his wit had been exhausted, and his libell lan<g ref="char:EOLhyphen"/>guished into a consumption, for he is grown already al<g ref="char:EOLhyphen"/>most as very a snivel-nose as <hi>Elencticus.</hi>
+               </p>
+               <p>He feeds his own Party with vain hopes, and promi<g ref="char:EOLhyphen"/>ses
+<pb facs="tcp:161652:3"/> fair; he hath made himself cock-sure of the honest <hi>Scots,</hi> but the fool is deceived.</p>
+               <p>He hath bulled the Cow of the Kingdom with pro<g ref="char:EOLhyphen"/>mise of a King, and she bides by it; she hath been long asue, and sprung the udder of hope; but when she will Calve, who can determine?</p>
+               <p>Secondly, <hi>Mercurius Elencticus</hi> is the silliest fellow of the whole red-nosed tribe of Mercury-mongers, the veriest asse that ever shit through a Trumpet, the frit<g ref="char:EOLhyphen"/>ter of fraud, the seething-pot of iniquity, the costly (I mean) costive-wittedst block head that ever was guilty of spoiling ink and paper; be squeezeth out his non<g ref="char:EOLhyphen"/>sence with so much labour and pain, and makes so ma<g ref="char:EOLhyphen"/>ny vinegar-faces to the wringing of a lame line out, it would grieve one to see it, and hath speciall need of Rubarb to loosen his wit.</p>
+               <p>He explicates a jeer so largely, with so many cir<g ref="char:EOLhyphen"/>cumlocutions, letting on't out by little and little, that he makes it, from the sounding fart of a jest, become the stinking fizle of a ridiculous sentence. He tailes at the Almanack-makers in folio, and (as if he meant to make a Comment upon Master <hi>Bookers)</hi> handles every part of it exactly: And the best part I saw in him is (he called Master <hi>Lilly</hi> Star-gazing Wizard:) but I will leave this Almanack-expositor to the expounded, who I know are informed by the Starres how to rail at him soundly enough in the next yeers Almanack.</p>
+               <trailer>Hactenus de Cavileeres.</trailer>
+            </div>
+            <div n="2" type="part">
+               <head type="sub">2. Nunc de Parliamenteers.</head>
+               <p>First, the Perfect Diurnall-writer is an old standing Pool, and therefore must needs gather much silth; he
+<pb facs="tcp:161652:4"/> is the arch-sedition-monger, he may fib by authority, and lye stoutly (as no doubt but he doth) <hi>cum publico privilegio, imprimatur G. Mabbot:</hi> He cannot write a jest but at second hand, and seldome rails but at Pres<g ref="char:EOLhyphen"/>bytery, which he doth scouldingly, with much waspish<g ref="char:EOLhyphen"/>nesse: he takes occasion to speak of the eleven Mem<g ref="char:EOLhyphen"/>bers in every Diurnall, least happly we should forget them: he is absolutely the cunningst whelp of the whole litter, for he never makes an end of his tale, but referres some to next week, some to friday, &amp;c. hold<g ref="char:EOLhyphen"/>ing his Reader in continuall expectation of what fol<g ref="char:EOLhyphen"/>lowes, never satisfying him.</p>
+               <p>He tels of many Orders (as good women tell one another of their egges) there are many egges laid, but shall they ever be hatcht into the Chicken of exe<g ref="char:EOLhyphen"/>cution? there are many hatcht indeed, but they are for money, and they passe <hi>nemine contradicente:</hi> Now and then a good chick breaks the shell with much difficul<g ref="char:EOLhyphen"/>ty, but it muw be warily kept, else the Kite of cove<g ref="char:EOLhyphen"/>tousnesse will snatch it away: this fellow sneaks at <hi>Westminster</hi> for his newes, and hath private intelligence from the Army; his ears are of the larger size, they reach to <hi>Ireland, Scotland, France</hi> and <hi>Holland:</hi> to conclude, he is a meere changeling, a fellow of no value.</p>
+               <p>Secondly, the Moderate Intelligencer is the epitome of nothing, the gizard of a trifle: This fellow is Liar<g ref="char:EOLhyphen"/>royall, and can out-lye a sheet every week; he tels out<g ref="char:EOLhyphen"/>landish, beyond-sea lyes, besides English, and his ears are ubiquitary; he knowes what ere is done in <hi>France, Spain, Holland, Germany, Swevia, Denmark, Russia, Italy,</hi>
+                  <pb facs="tcp:161652:4"/>
+                  <hi>Dacia, Sclavonia, Transilvania, Poland, Turcia, Canaea, Venice</hi> and <hi>Rome:</hi> (but sirrah, who made you of his Ho<g ref="char:EOLhyphen"/>linesse privy Counsell:) thus having fild his dung-cart, he sends it out into the world.</p>
+               <p>There are many other silly fellows of this profession, who are no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worth the castigating distinctly; they are all the e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>crements of humanity, the hemrods of wit, the fire-brands of contention, the chafendishes of hell, (or as the <hi>American</hi> Cobler speaks of fashion-loving women) the gyblets of vanity, the petti-toes of infir<g ref="char:EOLhyphen"/>mity; fitter to be kickt, if they were of a kickable sub<g ref="char:EOLhyphen"/>stance, then either honoured or humoured.</p>
+               <p>I wish our noble Senators would be pleased, either to banish these whiffers out of the Kingdom, or to send these gipsies home from tithing to tithing, with whip and passe, or bung up the mouthes of these brawling curres with a pension (as <hi>Charillus</hi> was served) that they may no longer corrupt the world with their forgeries: I would willingly allow them New-gate pension, bread and water, on condition they work hard, or a generall assessement <hi>per mensem,</hi> for their relief: but if not, may they be hated of all, (or as <hi>Dorcas</hi> in Sir <hi>P. S.</hi> his ma<g ref="char:EOLhyphen"/>lady) may the taste of them be worse then musty cheese, and their sight more odible then a Toad in ones pottage.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>That henceforth we may live in peace,</hi>
+                     </l>
+                     <l>
+                        <hi>And our divisions surcease.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
